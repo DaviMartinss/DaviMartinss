@@ -1,8 +1,7 @@
 ## Olá! Eu sou o Davi Martins.
 
 <div align="center">
-  <img height="190em" src="./stats.svg" />
-  <img height="190em" src="./top-langs.svg" />
+  <img src="./github-metrics.svg" alt="GitHub Metrics" />
 </div>
 
   <div style="display: inline_block"><br>
