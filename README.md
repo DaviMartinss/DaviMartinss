@@ -1,11 +1,10 @@
 ## Olá! Eu sou o Davi Martins.
 
 <div align="center">
-  <a href="https://github.com/DaviMartinss">
-  <img height="190em" width="420em" src="https://github-readme-stats.vercel.app/api?username=DaviMartinss&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="190em" width="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviMartinss&layout=compact&langs_count=7&theme=dark"/>
+  <img height="190em" src="./stats.svg" />
+  <img height="190em" src="./top-langs.svg" />
 </div>
-  
+
   <div style="display: inline_block"><br>
   
 </div>
